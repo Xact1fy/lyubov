@@ -1,0 +1,182 @@
+os.getcwd(): Returns the current working directory.
+
+os.chdir(path): Changes the current working directory to the specified path.
+
+os.listdir(path): Returns a list of the entries in the directory given by the path.
+
+os.mkdir(path): Creates a new directory with the specified path.
+
+os.makedirs(path): Recursively creates directories for the specified path.
+
+os.remove(path): Removes (deletes) the file at the specified path.
+
+os.rename(src, dst): Renames a file or directory from src to dst.
+
+os.rmdir(path): Removes the directory at the specified path.
+
+os.path.exists(path): Checks if a path exists.
+
+os.path.isdir(path): Checks if the path is a directory.
+
+os.path.isfile(path): Checks if the path is a file.
+
+os.path.join(path, *paths): Joins one or more path components intelligently.
+
+os.path.abspath(path): Returns the absolute path of the specified path.
+
+os.path.dirname(path): Returns the directory name of the specified path.
+
+os.path.basename(path): Returns the base name of the specified path.
+
+os.path.splitext(path): Splits the path into a tuple containing the root and extension.
+
+os.path.isabs(path): Checks if the path is an absolute path.
+
+os.path.normpath(path): Normalizes the path by eliminating redundant separators and up-level references.
+
+os.path.samefile(path1, path2): Checks if two paths refer to the same file.
+
+os.path.getsize(path): Returns the size of the file in bytes.
+
+os.path.getmtime(path): Returns the last modification time of the file.
+
+os.path.getatime(path): Returns the last access time of the file.
+
+os.path.getctime(path): Returns the creation time of the file.
+
+os.path.islink(path): Checks if the path is a symbolic link.
+
+os.path.realpath(path): Returns the canonical path of the specified path, eliminating any symbolic links.
+
+os.path.relpath(path, start): Returns a relative path from start to path.
+
+os.path.expanduser(path): Expands the ~ symbol in the path to the user's home directory.
+
+os.path.expandvars(path): Expands environment variables in the path.
+
+os.path.normcase(path): Normalizes the case of the path for the operating system.
+
+os.path.splitdrive(path): Splits the drive letter from the path on Windows.
+
+os.path.split(path): Splits the path into a tuple containing the directory and the file name.
+
+os.path.splitext(path): Splits the path into a tuple containing the root and the extension.
+
+os.path.join(path, *paths): Joins one or more path components intelligently.
+
+os.path.isabs(path): Checks if the path is an absolute path.
+
+os.path.islink(path): Checks if the path is a symbolic link.
+
+os.path.realpath(path): Returns the canonical path of the specified path, eliminating any symbolic links.
+
+os.path.relpath(path, start): Returns a relative path from start to path.
+
+os.path.expanduser(path): Expands the ~ symbol in the path to the user's home directory.
+
+os.path.expandvars(path): Expands environment variables in the path.
+
+os.path.normcase(path): Normalizes the case of the path for the operating system.
+
+os.path.splitdrive(path): Splits the drive letter from the path on Windows.
+
+os.path.split(path): Splits the path into a tuple containing the directory and the file name.
+
+os.path.splitext(path): Splits the path into a tuple containing the root and the extension.
+
+os.path.join(path, *paths): Joins one or more path components intelligently.
+
+os.path.isabs(path): Checks if the path is an absolute path.
+
+os.path.islink(path): Checks if the path is a symbolic link.
+
+os.path.realpath(path): Returns the canonical path of the specified path, eliminating any symbolic links.
+
+os.path.relpath(path, start): Returns a relative path from start to path.
+
+os.path.expanduser(path): Expands the ~ symbol in the path to the user's home directory.
+
+os.path.expandvars(path): Expands environment variables in the path.
+
+os.path.normcase(path): Normalizes the case of the path for the operating system.
+
+os.path.splitdrive(path): Splits the drive letter from the path on Windows.
+
+os.path.split(path): Splits the path into a tuple containing the directory and the file name.
+
+os.path.splitext(path): Splits the path into a tuple containing the root and the extension.
+
+os.path.join(path, *paths): Joins one or more path components intelligently.
+
+os.path.isabs(path): Checks if the path is an absolute path.
+
+os.path.islink(path): Checks if the path is a symbolic link.
+
+os.path.realpath(path): Returns the canonical path of the specified path, eliminating any symbolic links.
+
+os.path.relpath(path, start): Returns a relative path from start to path.
+
+os.path.expanduser(path): Expands the ~ symbol in the path to the user's home directory.
+
+os.path.expandvars(path): Expands environment variables in the path.
+
+os.path.normcase(path): Normalizes the case of the path for the operating system.
+
+os.path.splitdrive(path): Splits the drive letter from the path on Windows.
+
+os.path.split(path): Splits the path into a tuple containing the directory and the file name.
+
+os.path.splitext(path): Splits the path into a tuple containing the root and the extension.
+
+os.path.join(path, *paths): Joins one or more path components intelligently.
+
+os.path.isabs(path): Checks if the path is an absolute path.
+
+os.path.islink(path): Checks if the path is a symbolic link.
+
+os.path.realpath(path): Returns the canonical path of the specified path, eliminating any symbolic links.
+
+os.path.relpath(path, start): Returns a relative path from start to path.
+
+os.path.expanduser(path): Expands the ~ symbol in the path to the user's home directory.
+
+os.path.expandvars(path): Expands environment variables in the path.
+
+os.path.normcase(path): Normalizes the case of the path for the operating system.
+
+os.path.splitdrive(path): Splits the drive letter from the path on Windows.
+
+os.path.split(path): Splits the path into a tuple containing the directory and the file name.
+
+os.path.splitext(path): Splits the path into a tuple containing the root and the extension.
+
+os.path.join(path, *paths): Joins one or more path components intelligently.
+
+os.path.isabs(path): Checks if the path is an absolute path.
+
+
+os.path.islink(path): Checks if the path is a symbolic link.
+
+os.path.realpath(path): Returns the canonical path of the specified path, eliminating any symbolic links.
+
+os.path.relpath(path, start): Returns a relative path from start to path.
+
+os.path.expanduser(path): Expands the ~ symbol in the path to the user's home directory.
+
+os.path.expandvars(path): Expands environment variables in the path.
+
+os.path.normcase(path): Normalizes the case of the path for the operating system.
+
+os.path.splitdrive(path): Splits the drive letter from the path on Windows.
+
+os.path.split(path): Splits the path into a tuple containing the directory and the file name.
+
+os.path.splitext(path): Splits the path into a tuple containing the root and the extension.
+
+os.path.join(path, *paths): Joins one or more path components intelligently.
+
+os.path.isabs(path): Checks if the path is an absolute path.
+
+os.path.islink(path): Checks if the path is a symbolic link.
+
+os.path.realpath(path): Returns the canonical path of the specified path, eliminating any symbolic
