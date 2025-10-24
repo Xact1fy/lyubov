@@ -71,6 +71,10 @@ while True:
         speak("Deleting directory")
         dir_name = command.replace("delete", "").strip()
         os.system(f'rmdir /S /Q "{dir_name}"')
+
+    if "hidden" in command:
+        speak("Accessing hidden function")
+        hidden_function()
     
     if "list" in command:
         speak("Listing directories")
@@ -80,7 +84,7 @@ while True:
         speak("Opening GitHub link for more information")
         webbrowser.open("https://github.com/Xact1fy/lyubov")
         
-    
+    #add hidden function trigger
     if "exit" in command:
         speak("Exiting the program")
         break
