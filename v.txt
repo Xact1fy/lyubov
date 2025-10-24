@@ -1,3 +1,5 @@
+A list of os commands for you add and learn 😁
+
 os.getcwd(): Returns the current working directory.
 
 os.chdir(path): Changes the current working directory to the specified path.
@@ -178,5 +180,6 @@ os.path.join(path, *paths): Joins one or more path components intelligently.
 os.path.isabs(path): Checks if the path is an absolute path.
 
 os.path.islink(path): Checks if the path is a symbolic link.
+
 
 os.path.realpath(path): Returns the canonical path of the specified path, eliminating any symbolic
