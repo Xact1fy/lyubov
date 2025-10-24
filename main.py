@@ -1,5 +1,6 @@
 import os
 import pyttsx3
+import webbrowser
 import psutil
 import speech_recognition as sr
 import time
@@ -77,7 +78,8 @@ while True:
 
     if "link" in command:
         speak("Opening GitHub link for more information")
-        os.system('start
+        webbrowser.open("https://github.com/Xact1fy/lyubov")
+        
     
     if "exit" in command:
         speak("Exiting the program")
