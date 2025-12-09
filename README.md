@@ -33,7 +33,11 @@ Open your terminal or command prompt and run:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Lyubov.git](https://github.com/YOUR_USERNAME/Lyubov.git)
 cd Lyubov
-python lyubov.py
+```
+
+### 2. Open with python
+```bash
+python3 main.py
 ```
 ---
 
