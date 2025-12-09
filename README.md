@@ -3,6 +3,8 @@
   <img src="https://img.shields.io/badge/Open%20Source-ff4500?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Badge"/>
 </div>
 
+![Lovely to meet you <3... ](https://img.freepik.com/premium-vector/pixel-art-starry-sky-sunset-moon-with-clouds-stars-vector-illustrations-eps10-bylayer_148553-721.jpg?semt=ais_hybrid&w=740&q=80)
+
 # 🔊 L Y U B O V
 
 > *Your command-line directory management, but with a voice.*
