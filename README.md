@@ -37,7 +37,7 @@ python lyubov.py
 ```
 ---
 
-##🛠️ Contribution | Level Up
+## 🛠️ Contribution | Level Up
 Since Lyubov is **open source**, your contributions are highly welcome! We're always looking to expand the command set and improve voice recognition accuracy.
 
 Fork the repository.
